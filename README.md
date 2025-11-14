@@ -26,9 +26,11 @@ A role-based management dashboard for admins, suppliers, engineers, and consulta
 
 ---
 
-# 💼 Current Role
-**Front-End Developer @ CraftScene (May 2023 – Present)**  
+# 💼  Roles
+**Front-End Developer @ CraftScene (May 2023 – May 2025)**  
 Working on two core applications in the construction-tech domain, building reusable UI systems, integrating APIs, developing scalable architectures, and ensuring high-quality UX for both customers and business users.
+
+**FreeLancer Remote (May 2025 – Present)**  
 
 ---
 
