@@ -30,7 +30,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Front-End Developer** specializing in building **scalable**, **maintainable**, and **high-performance** web applications using **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**.  
+I'm a **Front-End Developer** specializing in building **scalable**, **maintainable**, and **high-performance** web applications using **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, and **Appwrite** for backend-as-a-service.
 
 I have delivered **end-to-end solutions** for both **customers** and **business users**, including:  
 - A complete **customer website** for service exploration  
@@ -47,12 +47,14 @@ I'm passionate about **Atomic Design**, **clean architecture**, **reusable UI sy
 ### **Front-End Developer @ CraftScene**  
 *May 2023 – May 2025*  
 - Worked on **two core applications** in the construction-tech domain: a customer-facing website and an admin/business dashboard.  
-- Built **reusable UI systems**, integrated APIs, developed **scalable architectures**, and ensured **high-quality UX**.  
-- Collaborated closely with designers, backend teams, and business stakeholders to deliver reliable end-to-end solutions.
+- Built **reusable UI systems**, integrated APIs, and developed **scalable architectures** using **React, TypeScript, and Appwrite**.  
+- Used Appwrite for **authentication**, **database management**, and **secure API interactions**.  
+- Collaborated with designers, backend engineers, and business stakeholders to deliver reliable end-to-end solutions.
 
 ### **Freelancer (Remote)**  
 *May 2025 – Present*  
 - Developing **custom web applications** for clients in various industries.  
+- Using **Appwrite** to build fast, reliable backend services — authentication, storage, database, cloud functions, and more.  
 - Leveraging my **medical background** to contribute to **healthcare and medical technology projects**, including business development, workflow optimization, and UX/UI strategy.  
 - Helping healthcare startups and organizations build **patient-centric web solutions** with scalable, maintainable architectures.  
 
@@ -72,7 +74,7 @@ Live: https://craftsceneapp.com/
 Live: https://dashboard.craftsceneapp.com/  
 - Role-based dashboard for suppliers, engineers & admin users  
 - Includes tables, filters, status updates, notifications  
-- Built using **React + Tailwind CSS**
+- Built using **React + Tailwind CSS + Appwrite**
 
 ---
 
@@ -91,6 +93,11 @@ Live: https://dashboard.craftsceneapp.com/
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 🔧 Backend / BaaS  
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
 
 ---
 
