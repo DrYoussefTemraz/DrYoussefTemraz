@@ -7,13 +7,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+Experiences;Clean+Architecture+Advocate" alt="Typing SVG" />
 
 ### Frontend Developer | React.js • Next.js • TypeScript  
-📍 **Cairo, Egypt** | 🚀 **2+ Years Experience**  
+📍 **Cairo, Egypt** | 🚀 **2+ Years Experience**
 
 <p>
   <a href="mailto:youseftahertemraz@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/yousseffaher-webdevelopment">
+  <a href="https://www.linkedin.com/in/yousseffaher-webdevelopment">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wa.me/201012275568">
@@ -36,7 +36,7 @@ I have delivered **end-to-end solutions** for both **customers** and **business 
 - A complete **customer website** for service exploration  
 - A fully featured **dashboard** for admins, suppliers, and engineers  
 
-I also have a **medical background** and experience in **business development** for healthcare projects, helping medical teams build patient-focused digital solutions.  
+I also have a **medical background** and experience in **business development** for healthcare projects, helping medical teams build patient-focused digital solutions.
 
 I'm passionate about **Atomic Design**, **clean architecture**, **reusable UI systems**, and crafting seamless user experiences.
 
@@ -56,7 +56,7 @@ I'm passionate about **Atomic Design**, **clean architecture**, **reusable UI sy
 - Developing **custom web applications** for clients in various industries.  
 - Using **Appwrite** to build fast, reliable backend services — authentication, storage, database, cloud functions, and more.  
 - Leveraging my **medical background** to contribute to **healthcare and medical technology projects**, including business development, workflow optimization, and UX/UI strategy.  
-- Helping healthcare startups and organizations build **patient-centric web solutions** with scalable, maintainable architectures.  
+- Helping healthcare startups and organizations build **patient-centric web solutions** with scalable, maintainable architectures.
 
 ---
 
@@ -96,7 +96,7 @@ Live: https://dashboard.craftsceneapp.com/
 
 ---
 
-### 🔧 Backend / BaaS  
+### 🔧 Backend / BaaS
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
 
 ---
@@ -133,7 +133,7 @@ Tanta University • *Graduated 2007*
 ## 📚 Certifications
 - React & TypeScript Mastery — Udemy  
 - Web Development Bootcamp — Udemy  
-- Agile Product Owner — Udemy  
+- Agile Product Owner — Udemy
 
 ---
 
@@ -144,7 +144,7 @@ Tanta University • *Graduated 2007*
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Open+to+Frontend+Roles;Open+to+Freelance+Projects;Let's+Build+Healthcare+Solutions+Together" />
 
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youseftahertemraz@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yousseffaher-webdevelopment)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousseffaher-webdevelopment)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201012275568)
 
 </div>
