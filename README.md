@@ -13,7 +13,7 @@
   <a href="mailto:youseftahertemraz@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/youssef-taher-temraz/">
+  <a href="www.linkedin.com/in/yousseffaher-webdevelopment">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wa.me/201012275568">
@@ -144,7 +144,7 @@ Tanta University • *Graduated 2007*
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Open+to+Frontend+Roles;Open+to+Freelance+Projects;Let's+Build+Healthcare+Solutions+Together" />
 
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youseftahertemraz@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-taher-temraz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yousseffaher-webdevelopment)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201012275568)
 
 </div>
