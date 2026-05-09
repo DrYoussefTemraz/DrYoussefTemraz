@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+Experiences;Clean+Architecture+Advocate" alt="Typing SVG" />
 
 ### Frontend Developer | React.js • Next.js • TypeScript  
-📍 **Cairo, Egypt** | 🚀 **2+ Years Experience**
+📍 **Cairo, Egypt** | 🚀 **4+ Years Experience**
 
 <p>
   <a href="mailto:youseftahertemraz@gmail.com">
